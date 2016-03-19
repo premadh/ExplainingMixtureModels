@@ -1,4 +1,4 @@
-# Explaining Mixture  #
+# Mixture Models of Multivariate Bernoulli Distributions #
 
 Scripts to train mixture models of Bernoulli distributions 
 
